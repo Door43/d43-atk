@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atk:home|Door43 (atk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atk|d43-atk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atk/archive/master.zip|d43-atk.zip]]
+
+**Recent Changes**
+{{changes>ns = atk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atk|Ethnologue data]]
+
